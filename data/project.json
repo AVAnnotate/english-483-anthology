@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "AVAnnotate",
+    "is_private": false,
+    "title": "English 483 Anthology",
+    "description": "This project will house all of the student projects from Mike O'Driscoll's Spring '25 English 483 class. ",
+    "language": "en",
+    "slug": "english-483-anthology",
+    "creator": "saamturner",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-03-24T18:47:15.287Z",
+    "updated_at": "2025-03-24T18:47:15.287Z"
   }
 }
