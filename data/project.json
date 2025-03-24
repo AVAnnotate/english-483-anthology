@@ -16,12 +16,35 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "Lina-P483",
+        "avatar_url": "https://avatars.githubusercontent.com/u/199323419?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "Iyla1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/200167020?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "b1underbuss",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13152431?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "hayleedeakin1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/200290890?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [],
       "tags": []
     },
     "created_at": "2025-03-24T18:47:15.287Z",
-    "updated_at": "2025-03-24T18:47:15.287Z"
-  }
+    "updated_at": "2025-03-24T18:51:38.143Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
 }
