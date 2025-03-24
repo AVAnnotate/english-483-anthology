@@ -18,33 +18,38 @@
     "auto_populate_home_page": true,
     "additional_users": [
       {
-        "login_name": "M-Wolinski",
-        "avatar_url": "https://avatars.githubusercontent.com/u/200407047?v=4",
+        "login_name": "Hbusby",
+        "avatar_url": "https://avatars.githubusercontent.com/u/200667323?v=4",
         "admin": false
       },
       {
-        "login_name": "sarah-freeman",
-        "avatar_url": "https://avatars.githubusercontent.com/u/142846974?v=4",
+        "login_name": "zenoviaraymentevans",
+        "avatar_url": "https://avatars.githubusercontent.com/u/200672177?v=4",
         "admin": false
       },
       {
-        "login_name": "Sjarcand25",
-        "avatar_url": "https://avatars.githubusercontent.com/u/200543751?v=4",
+        "login_name": "Bday88",
+        "avatar_url": "https://avatars.githubusercontent.com/u/200679418?v=4",
         "admin": false
       },
       {
-        "login_name": "mikvela",
-        "avatar_url": "https://avatars.githubusercontent.com/u/200565231?v=4",
+        "login_name": "fran-dlpz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/200726250?v=4",
         "admin": false
       },
       {
-        "login_name": "tjlieu",
-        "avatar_url": "https://avatars.githubusercontent.com/u/200630905?v=4",
+        "login_name": "astridstark122",
+        "avatar_url": "https://avatars.githubusercontent.com/u/200806553?v=4",
         "admin": false
       },
       {
-        "login_name": "devinhobbs",
-        "avatar_url": "https://avatars.githubusercontent.com/u/200640075?v=4",
+        "login_name": "hannahmohr",
+        "avatar_url": "https://avatars.githubusercontent.com/u/200873575?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "Jaden1539",
+        "avatar_url": "https://avatars.githubusercontent.com/u/200884924?v=4",
         "admin": false
       }
     ],
@@ -53,7 +58,7 @@
       "tags": []
     },
     "created_at": "2025-03-24T18:47:15.287Z",
-    "updated_at": "2025-03-24T18:55:40.707Z",
+    "updated_at": "2025-03-24T19:03:02.122Z",
     "generate_pages_site": true
   },
   "is_private": false
